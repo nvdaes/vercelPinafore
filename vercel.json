@@ -6,7 +6,7 @@
   "github": {
     "silent": true
   },
-  "buildCommand": "yarn build",
+  "buildCommand": "LOCALE=es yarn build",
   "outputDirectory": "__sapper__/export",
   "routes": [
     {
